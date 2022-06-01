@@ -1,0 +1,8 @@
+dbaddress: localhost
+dbname: database1
+dbpassword: "456"
+dbport: 3306
+dbtable: table1
+dbusername: "123"
+espkey: 072ad1ea-f6eb-47b8-b268-2d2c7cd75997
+httpport: 15000
